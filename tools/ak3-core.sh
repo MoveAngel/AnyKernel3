@@ -164,7 +164,7 @@ unpack_ramdisk() {
       $comp -dc ramdisk.cpio.$comp > ramdisk.cpio;
     fi;
   fi;
-
+a
   test -d $ramdisk && mv -f $ramdisk $home/rdtmp;
   mkdir -p $ramdisk;
   chmod 755 $ramdisk;
