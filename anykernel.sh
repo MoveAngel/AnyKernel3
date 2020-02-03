@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Predator Kernel By sohamsen@xda TG:@PredatorX91
+kernel.string=Predator Kernel By sohamsen@xda TG:@PredatorX91 Co-Maintainer: TG:@susandahal
 do.devicecheck=1
 do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=universal
+device.name1=lavender
 device.name2=
 device.name3=
 device.name4=
