@@ -356,4 +356,4 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
 fi;
 
 ui_print " - Done!";
-ui_print " - Predator Kernel 5.6! ";
+ui_print " - Predator Kernel 5.7! ";
