@@ -1,4 +1,4 @@
-NAME := NotKernel
+NAME := PredatorKernel
 
 CODE := Lavender
 
