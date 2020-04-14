@@ -1,4 +1,4 @@
-NAME := PredatorKernel
+NAME := 미나-Kernel
 
 CODE := Lavender
 

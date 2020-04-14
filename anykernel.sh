@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Predator Kernel By sohamsen@xda TG:@PredatorX91 
+kernel.string=미나-Kernel By MoveAngel Telegram @MinaKernel
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
