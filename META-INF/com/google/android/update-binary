@@ -356,4 +356,4 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
 fi;
 
 ui_print " - Done!";
-ui_print " - 미나-Kernel 1.0! ";
+ui_print " - 미나-Kernel v1! ";
