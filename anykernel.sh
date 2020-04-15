@@ -4,16 +4,16 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=미나-Kernel By MoveAngel Telegram: @MoveAngel Channel: @MinaKernel
+kernel.string=Mina-미나-Kernel By MoveAngel Telegram: @MoveAngel Channel: @MinaKernel
 do.devicecheck=1
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=1
-device.name1=rolex
-device.name2=redmi4a
-device.name3=riva
-device.name4=redmi5a
+device.name1=whyred
+device.name2=
+device.name3=
+device.name4=
 device.name5=vince
 device.name6=redmi5plus
 device.name7=lavender
