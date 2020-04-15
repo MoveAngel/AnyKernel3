@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Mina-미나-Kernel By MoveAngel Telegram: @MoveAngel Channel: @MinaKernel
+kernel.string=Mina-Kernel By MoveAngel Telegram: @MoveAngel Channel: @MinaKernel
 do.devicecheck=1
 do.modules=0
 do.systemless=0
